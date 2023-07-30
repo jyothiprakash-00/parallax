@@ -422,9 +422,10 @@ main {
   .card h2{
     position: absolute;
     text-align: center;
-    right: 40%;
+    right: 45%;
     color: black;
     top: 30%;
+    font-size: 18px;
   }
   .card h2 span{
     position: absolute;
